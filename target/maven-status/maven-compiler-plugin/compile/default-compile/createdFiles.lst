@@ -1,0 +1,14 @@
+clients/RegisterUnsuccessfulClient.class
+services/RegisterUnsuccessfulService.class
+services/UsersService.class
+models/Ad$AdBuilder.class
+configuration/RequestSpecificationBuilder.class
+models/Data.class
+models/HttpResponseException.class
+models/Users$UsersBuilder.class
+models/Users.class
+clients/UsersClient.class
+models/Ad.class
+services/DeleteUserService.class
+clients/DeleteUserClient.class
+models/Data$DataBuilder.class

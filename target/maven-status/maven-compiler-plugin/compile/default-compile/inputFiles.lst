@@ -1,0 +1,11 @@
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/services/UsersService.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/services/DeleteUserService.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/clients/DeleteUserClient.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/models/HttpResponseException.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/models/Ad.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/configuration/RequestSpecificationBuilder.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/clients/UsersClient.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/models/Users.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/clients/RegisterUnsuccessfulClient.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/services/RegisterUnsuccessfulService.java
+/Users/s.brzak/Documents/Projects/api-automation-project/src/main/java/models/Data.java
